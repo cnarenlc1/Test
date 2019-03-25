@@ -20,6 +20,10 @@ public class MainApp {
         System.out.println("Try try ");
     }
 
+    public  static void myMethod1(){
+        System.out.println("Try try  try");
+    }
+
 
 
 
