@@ -21,8 +21,10 @@ public class MainApp {
     }
 
     public  static void myMethod1(){
-        System.out.println("Try try to be one");
+        System.out.println("Try try to");
     }
+
+
 
 
 
