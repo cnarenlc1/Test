@@ -16,6 +16,10 @@ public class MainApp {
         return a-b;
     }
 
+    public  static void myMethod(){
+        System.out.println("Try try ");
+    }
+
 
 
 
